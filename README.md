@@ -11,5 +11,5 @@ some scripts for installing OpenSUSE on an Acer C720 Chromebook
 
 	* I'm not smart enough to figure out how to automate it
 
-All config files and all scripts in the 'scripts' directory were **NOT** written by me.
-I took theme from here, https://forums.opensuse.org/showthread.php/503763-Install-OpenSUSE-13-2-on-a-Acer-chromebook-c720
+Everything in here, besides 'c720-opensuse.sh' was **NOT** written by me.
+I took them from here, https://forums.opensuse.org/showthread.php/503763-Install-OpenSUSE-13-2-on-a-Acer-chromebook-c720
