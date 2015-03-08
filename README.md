@@ -1,9 +1,5 @@
 ## acerC720-script
-some scripts for installing Linux on an Acer C720 Chromebook
-
-* ~~I haven't tested to see if this works yet.~~
-
-	* ~~Furthermore, I am entirely unsure if this'll work~~
+A script to assist with installing Linux on an Acer C720 Chromebook
 
 * I tested it on OpenSUSE 13.2; it worked. There are about two more scripts that I need to add
 
@@ -16,7 +12,7 @@ some scripts for installing Linux on an Acer C720 Chromebook
 		* I don't think I'll ever get these to be automatically configured.
 	
 
-Everything in here, besides 'c720-opensuse.sh' (which probably needs re-named) was **NOT** written by me.
+Everything in here, besides 'c720-linux.sh' was **NOT** written by me.
 I took them from here, https://forums.opensuse.org/showthread.php/503763-Install-OpenSUSE-13-2-on-a-Acer-chromebook-c720
 
 ## Test Info
@@ -27,6 +23,6 @@ I took them from here, https://forums.opensuse.org/showthread.php/503763-Install
 	
 ##TODO
 
-* Rename the script
+* ~~Rename the script~~
 * Add a couple more configs
 * Add a check to see if 'systemd' is installed
