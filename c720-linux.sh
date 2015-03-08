@@ -1,5 +1,6 @@
 #!/bin/bash
 
+#Directories
 SOUNDDIR=/usr/lib/systemd/system-sleep
 TOUCHPADDIR=/usr/share/X11/xorg.conf.d
 MODPROBE=/etc/modprobe.d
