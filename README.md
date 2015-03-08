@@ -17,9 +17,15 @@ I took them from here, https://forums.opensuse.org/showthread.php/503763-Install
 
 ## Test Info
 
-* The script worked, all the files went to their correct locations with the correct permissions.
-	* Tested an AcerC720 'Peppy' Chromebook with a 1.4GHz Celeron, 2GB, and an 128GB aftermarket SSD (it came with 	  a 16GB drive).
-
+* Hardware
+	* Acer C720 Chromebook 'Peppy'
+	* 1.4 GHz Haswell Celeron
+	* 2GB RAM
+	* 128GB Aftermarket SSD (Originally 16GB)
+* Software
+	* OpenSUSE 13.2
+	* Kernel 3.19
+	* SeaBIOS (The one you get from the Chromebook itself)
 	
 ##TODO
 
