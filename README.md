@@ -22,7 +22,8 @@ I took them from here, https://forums.opensuse.org/showthread.php/503763-Install
 ## Test Info
 
 * The script worked, all the files went to their correct locations with the correct permissions.
-	* There's not much more to be said
+	* Tested an AcerC720 'Peppy' Chromebook with a 1.4GHz Celeron, 2GB, and an 128GB aftermarket SSD (it came with 	  a 16GB drive).
+
 	
 ##TODO
 
